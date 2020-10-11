@@ -1,6 +1,12 @@
 # Aplikasi E-Arsip CodeIgniter 4 Framework
 
+## Berikut Screenshot saya lampirkan.
 
+<img src="https://github.com/ronaldi-putra/ci4-e-arsip/blob/master/img/home.png" width="250">
+<img src="https://github.com/ronaldi-putra/ci4-e-arsip/blob/master/img/kategori.png" width="250">
+<img src="https://github.com/ronaldi-putra/ci4-e-arsip/blob/master/img/departmen.png" width="250">
+<img src="https://github.com/ronaldi-putra/ci4-e-arsip/blob/master/img/arsip.png" width="250">
+<img src="https://github.com/ronaldi-putra/ci4-e-arsip/blob/master/img/user.png" width="250">
 
 ## What is CodeIgniter?
 
